@@ -170,22 +170,7 @@
       ],
       "downloads": 0,
       "updated_at": "2026-05-31T00:00:00Z",
-      "min_app_version": "4.5.0" 
-    },{ "id": "extensions",
-"name": "extensions",
-"display_name": "Extensions",
-"version": "1.0.0",
-"description": "Custom SpotiFLAC extension.",
-"download_url": "https://raw.githubusercontent.com/zevavaVavava/SpotiFLAC-Extension/main/extensions/extensions.spotiflac-ext",
-"category": "integration",
-"tags": [
-  "custom"
-],
-"downloads": 0,
-"updated_at": "2026-05-31T00:00:00Z",
-"min_app_version": "4.5.0"
-}
+      "min_app_version": "4.5.0"
+    }
   ]
-}    
-  
-
+}
